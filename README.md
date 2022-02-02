@@ -1,3 +1,3 @@
 # StymiedSloth
 
-Staff Engineer on Internal API Platforms at Wayfair.
+Staff Engineer on Developer Platforms at Wayfair.
