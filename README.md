@@ -1,3 +1,3 @@
 # StymiedSloth
 
-Staff Engineer on Developer Platforms at Wayfair.
+Senior Engineer on Application Security team at Klaviyo.
